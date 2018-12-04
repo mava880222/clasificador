@@ -10,7 +10,7 @@
   
   
   
-      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="style.css">
 
   
 </head>
@@ -26,7 +26,7 @@
     <link href="https://fonts.googleapis.com/css?family=Raleway|Ubuntu" rel="stylesheet">
 
     <!-- Estilos -->
-    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="stylesheet" href="estilos.css">
 
     <title>Formulario Login y Registro de Usuarios</title>
 </head>
@@ -159,8 +159,8 @@
         </div>
     </div>
 
-   <script src="js/jquery.js"></script>
-   <script src="js/main.js"></script>
+   <script src="jquery.js"></script>
+   <script src="main.js"></script>
 
 </body>
 </html>
@@ -168,7 +168,7 @@
 
   
 
-    <script  src="js/index.js"></script>
+    <script  src="index.js"></script>
 
 
 
